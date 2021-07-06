@@ -9,5 +9,7 @@ Durante durante a aula foram abordados os seguintes tópicos:
 * Desenvolvimento de testes unitários para validação de funcionalidades básicas: criação, listagem, consulta por nome e exclusão de cervejas.
 * TDD: apresentação e exemplo prático em 2 funcionalidades importantes: incremento e decremento do número de cervejas no estoque.
 
-* Projeto no HEROKU
+
+
+Projeto no HEROKU
 * https://beer-stock-controller-api.herokuapp.com//api/v1/beers/
