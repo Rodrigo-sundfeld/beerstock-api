@@ -9,19 +9,5 @@ Durante durante a aula foram abordados os seguintes tópicos:
 * Desenvolvimento de testes unitários para validação de funcionalidades básicas: criação, listagem, consulta por nome e exclusão de cervejas.
 * TDD: apresentação e exemplo prático em 2 funcionalidades importantes: incremento e decremento do número de cervejas no estoque.
 
-Para executar o projeto no terminal, digite o seguinte comando:
-
-```shell script
-mvn spring-boot:run 
-```
-
-Para executar a suíte de testes desenvolvida durante a live coding, basta executar o seguinte comando:
-
-```shell script
-mvn clean test
-```
-
-Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
-
-```
-http://localhost:8080/api/v1/beers
+* Projeto no HEROKU
+* https://beer-stock-controller-api.herokuapp.com//api/v1/beers/
